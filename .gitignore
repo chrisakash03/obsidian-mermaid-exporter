@@ -25,5 +25,9 @@ Thumbs.db
 # Obsidian
 .obsidian/
 
-# md files 
+# Ignore all markdown files except README.md
 *.md
+!README.md
+
+# exclode the .zip file 
+*.zip
