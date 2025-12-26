@@ -3,7 +3,7 @@
 	"name": "Mermaid Exporter",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Export Mermaid diagrams as high-quality PNG, SVG, and JPEG files",
+	"description": "Export Mermaid diagrams as high-quality PNG, SVG, and JPEG files.",
 	"author": "Chris Akash Apollos",
 	"authorUrl": "https://github.com/chrisakash03",
 	"fundingUrl": "",
