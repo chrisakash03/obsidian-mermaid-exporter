@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+main.js
+main.js.map
+styles.css
+obsidian-plugin/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
+
+# md files 
+*.md
